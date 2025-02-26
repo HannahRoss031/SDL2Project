@@ -1,11 +1,12 @@
 /*
-* Author: Lily Norton, Galya Ramos, Hannah Ross
+* Author: Hannah Ross, Lily Norton, Galya Ramos 
 * Assignment Title: FINAL PROJECT
 * Assignment Description: Falling Balls
 * Due Date: 12/08/2024
 * Date Created: 11/15/2024
 * Date Last Modified: 12/08/2024
 */
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
